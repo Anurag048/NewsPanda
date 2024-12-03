@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald",
+            "title": "Barry Keoghan hits back at online trolls over ‘disgusting’ parenting comments - CNN",
+            "description": "Irish actor Barry Keoghan has hit back at “disgusting” online trolls who comment on his parenting, saying they “sicken” him and make him “furious.”",
+            "url": "https://www.cnn.com/2024/11/05/entertainment/barry-keoghan-online-trolls-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2065085949.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-05T14:20:00Z",
+            "content": "Irish actor Barry Keoghan has hit back at disgusting online trolls who comment on his parenting, saying they sicken him and make him furious.\r\nThe Saltburn star spoke extensively about the damaging i… [+2737 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "US election: How have the seven swing states voted in the past? - Al Jazeera English",
+            "description": "Pennsylvania, Georgia, North Carolina, Michigan, Arizona, Wisconsin and Nevada hold the keys to the White House.",
+            "url": "https://www.aljazeera.com/news/2024/11/5/us-election-how-have-the-seven-swing-states-voted-in-the-past",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AFP__20241103__36LJ2NR__v6__HighRes__PresidentialElection-1730722059.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-11-05T14:15:00Z",
+            "content": "Vice President Kamala Harris and former US President Donald Trump are neck and neck in polls as millions of US citizens head to voting stations on Tuesday.\r\nBoth campaigns have been laser-focused on … [+7038 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Metal Slug Tactics is an odd mix of arcade shooter and grid strategy that works - Ars Technica",
+            "description": "Fusing the look and feel of the classic 2D shooter series to the painstaking planning of an isometric tactics game? Yeah, okay, it somehow plays.",
+            "url": "https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/keyart-1152x648.png",
+            "publishedAt": "2024-11-05T14:00:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today - Space.com",
+            "description": "Dragon is scheduled to arrive at 10:15 a.m. EST.",
+            "url": "https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Rp3CbeFVGrynqfxxzQoNuh-1200-80.jpg",
+            "publishedAt": "2024-11-05T13:41:48Z",
+            "content": "The space station will receive a new shipment of supplies this morning (Nov. 5), and you can watch the event live.\r\nA SpaceX Dragon cargo spacecraft laden with 6,000 pounds (2,700 kilograms) of food,… [+1821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Boeing Stock Is Rising. Workers Voted to End Strike. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/boeing-stock-strike-yes-vote-1881f177",
+            "urlToImage": null,
+            "publishedAt": "2024-11-05T13:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Sources: Lions land DE Smith in Browns trade - ESPN",
+            "description": "The Lions added a pass rusher before the NFL trade deadline, acquiring Za'Darius Smith in a deal with the Browns, sources told ESPN.",
+            "url": "https://www.espn.com/nfl/story/_/id/42208135/sources-lions-land-zadarius-smith-nfl-trade-deadline",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1106%2Fr1249673_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-11-05T13:25:03Z",
+            "content": "The Detroit Lions added a pass rusher before Tuesday's NFL trade deadline, acquiring veteran defensive end Za'Darius Smith in a deal with the Cleveland Browns, sources told ESPN's Adam Schefter.\r\nThe… [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-05T13:13:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq set for a comeback as Election Day kicks off - Yahoo Finance",
+            "description": "The polls are open, and investors are in wait-and-see mode to find out whether Harris or Trump will win — and how long it'll take to get a clear outcome.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-set-for-comeback-as-election-day-kicks-off-143211362.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0xmxoMyoVSlqgjEugeMdGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/4bf280c0-9b44-11ef-bf6f-52d80960b74f",
+            "publishedAt": "2024-11-05T13:12:55Z",
+            "content": "US stocks stepped higher on Tuesday as Election Day got underway, with investors settling in to wait and see whether Kamala Harris or Donald Trump will shape the economy as the next president.\r\nThe t… [+4172 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "How much is the vice president paid? - CBS News",
+            "description": "Despite being second in line to the U.S. presidency, the vice president earns less than Supreme Court justices.",
+            "url": "https://www.cbsnews.com/news/how-much-is-the-vice-president-paid/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/01/29ccf047-f2f5-4824-a0e2-7fbb9b516b4e/thumbnail/1200x630/d985bb392f05255f6ae121b5797279fb/gettyimages-1248447560.jpg?v=379420b9063a2aadbcd559df18e2d1ae",
+            "publishedAt": "2024-11-05T13:00:13Z",
+            "content": "The vice president of the U.S. — who occupies the second-highest office in the executive branch of the federal government and who in an emergency is first in line to succeed the president — doesn't e… [+1782 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Simon Speakman Cordall",
+            "title": "Why have five been arrested over leaked Hamas documents in Israel? - Al Jazeera English",
+            "description": "PM Benjamin Netanyahu’s spokesman among those suspected of altering and leaking documents.",
+            "url": "https://www.aljazeera.com/features/2024/11/5/why-have-five-been-arrested-over-leaked-hamas-documents-in-israel",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24302581952246-1730804267.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-11-05T12:46:37Z",
+            "content": "A fresh political storm has engulfed Israeli Prime Minister Benjamin Netanyahu following the arrest of a number of people in connection with an alleged leak of classified documents from his office.\r\n… [+10281 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "‘I’m not proud of it’: Jason Kelce apologizes after video shows him spiking a cellphone after fan used a homophobic slur - CNN",
+            "description": "Jason Kelce issued an apology during ESPN’s Monday Night Countdown after a viral video captured a “heated moment” between the retired Super Bowl Champion and a fan.",
+            "url": "https://www.cnn.com/2024/11/04/sport/jason-kelce-apologizes-after-spiking-a-cellphone-after-fan-slur-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/bleacherreport/rwbplxixzhe0fh0xwkng.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-05T12:33:00Z",
+            "content": "Jason Kelce issued an apology during ESPNs Monday Night Countdown after a viral video captured a heated moment between the retired Super Bowl champion and a fan over the weekend.\r\nThe video shows an … [+1357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Yum Brands earnings miss estimates as KFC, Pizza Hut report same-store sales declines - CNBC",
+            "description": "KFC and Pizza Hut both reported steeper-than-expected declines in their same-store sales.",
+            "url": "https://www.cnbc.com/2024/11/05/yum-brands-yum-q3-2024-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108015621-1730809812172-108015621-1722607261102-gettyimages-2158731277-BC_24SChart5461.jpeg?v=1730809829&w=1920&h=1080",
+            "publishedAt": "2024-11-05T12:22:12Z",
+            "content": "Yum Brands on Tuesday reported quarterly earnings and revenue that missed Wall Street's expectation as same-store sales at KFC and Pizza Hut slid more than expected.\r\nHere's what the company reported… [+1590 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Todd Bowles gave 'very minor' consideration to going for two after late touchdown - NFL.com",
+            "description": "The Tampa Bay Buccaneers eschewed an option to try for two points with 27 seconds remaining in regulation. Instead, Todd Bowles kicked the PAT, forcing overtime, and the Chiefs ultimately ran away with the victory.",
+            "url": "https://www.nfl.com/news/todd-bowles-gave-very-minor-consideration-to-going-for-two-after-late-touchdown",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/cqzobhwjvaaq4ccsiqet",
+            "publishedAt": "2024-11-05T11:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andrew Torgan, Tricia Escobedo",
+            "title": "5 things to know for Nov. 5: Election Day, Boeing, Tropical Storm Rafael, Power plant plot, Teacher scandal - CNN",
+            "description": "CNN’s 5 Things brings you the news you need to know every morning.",
+            "url": "https://www.cnn.com/2024/11/05/us/5-things-to-know-for-nov-5-election-day-boeing-tropical-storm-rafael-power-plant-plot-teacher-scandal/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-05t052357z-1152193511-rc2tyaaq5wg8-rtrmadp-3-usa-election.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-05T11:36:00Z",
+            "content": "After months of polarizing rhetoric, unexpected pivots and misinformation galore, election season is finally coming to a close. But regardless of what happens today and in the days and weeks that fol… [+6165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pymnts.com"
+            },
+            "author": "PYMNTS",
+            "title": "Apple Reportedly Weighing Smart Glasses Push - PYMNTS.com",
+            "description": "Apple is reportedly exploring the viability of entering the smart glasses market. The tech giant has launched an in-house study of currently available",
+            "url": "https://www.pymnts.com/apple/2024/apple-reportedly-weighing-smart-glasses-push/",
+            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2019/11/augmented-reality-AR-virtual-reality-VR-smart-glasses-Apple-news.jpg",
+            "publishedAt": "2024-11-05T11:16:46Z",
+            "content": "Apple is reportedly exploring the viability of entering the smart glasses market.\r\nThe tech giant has launched an in-house study of currently available products, Bloomberg News reported Monday (Nov. … [+2415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-05T11:03:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-05T11:03:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cut"
+            },
+            "author": "Claire Comstock-Gay",
+            "title": "Your Daily Horoscope by Madame Clairevoyant: November 5, 2024 - The Cut",
+            "description": "Every weekday, the Cut’s astrology expert, Claire Comstock-Gay (a.k.a. Madame Clairevoyant) reads the horoscope for every zodiac sign.",
+            "url": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-nov-5-2024.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/c6d/485/2cde0029e781e95e2faf66e1e0cf3f6318-kris-jenner-scorpio-daily.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-11-05T10:00:48Z",
+            "content": "This morning, the moon enters Capricorn, one of its most solemn, no-nonsense positions. Its a good time to get serious about your responsibilities, to stop hoping someone else will do the hard work o… [+6203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 10 Power Rankings: Jim Harbaugh has Chargers playing like legitimate contenders; Bengals have life - CBS Sports",
+            "description": "Pete Prisco shares his Power Rankings heading into Week 10 of the 2024 season",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-10-power-rankings-jim-harbaugh-has-chargers-playing-like-legitimate-contenders-bengals-have-life/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/05/e5cb8080-99a0-4f7b-9d37-dd46fc06768a/thumbnail/1200x675/4d94aa3749fde5ef9b44e3e28c1cc707/power-rankings-week-10-chargers.jpg",
+            "publishedAt": "2024-11-05T10:00:00Z",
+            "content": "When Jim Harbaugh took over as the coach of the Los Angeles Chargers this year, we knew they would be a physical team that would run the ball, play good defense and receive timely throws from Justin … [+10319 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kantaro Komiya, Irene Wang",
+            "title": "World's first wooden satellite, developed in Japan, heads to space - Reuters",
+            "description": "The world's first wooden satellite, built by Japanese researchers, was launched into space on Tuesday, in an early test of using timber in lunar and Mars exploration.",
+            "url": "https://www.reuters.com/technology/space/worlds-first-wooden-satellite-developed-japan-heads-space-2024-11-05/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/3CLAXLWOH5NENPS2UUFAOZXEVE.jpg?auth=2c8efdcdb75fe89ce32899b18f2409ed46d9e6426415d07dea2ff1305dc5f399&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-05T09:03:37Z",
+            "content": null
+        }
+    ]
+}
